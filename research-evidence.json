@@ -1,0 +1,113 @@
+{
+  "query": {
+    "query": "postgres explain in:description",
+    "url": "https://api.github.com/search/repositories?q=postgres+explain+in%3Adescription&sort=stars&order=desc&per_page=10",
+    "observed_utc": "2026-10-04T12:43:43.178065+00:00",
+    "total": 152,
+    "results": [
+      {
+        "repo": "dalibo/pev2",
+        "stars": 3602,
+        "url": "https://github.com/dalibo/pev2"
+      },
+      {
+        "repo": "AlexTatiyants/pev",
+        "stars": 2803,
+        "url": "https://github.com/AlexTatiyants/pev"
+      },
+      {
+        "repo": "mgartner/pg_flame",
+        "stars": 1621,
+        "url": "https://github.com/mgartner/pg_flame"
+      },
+      {
+        "repo": "bradurani/pg-eyeballs",
+        "stars": 222,
+        "url": "https://github.com/bradurani/pg-eyeballs"
+      },
+      {
+        "repo": "lfborjas/postgres-explain-visualizer",
+        "stars": 55,
+        "url": "https://github.com/lfborjas/postgres-explain-visualizer"
+      },
+      {
+        "repo": "pganalyze/pg_stat_plans",
+        "stars": 52,
+        "url": "https://github.com/pganalyze/pg_stat_plans"
+      },
+      {
+        "repo": "TheOtherBrian1/Postgres_Lock_Explainer",
+        "stars": 37,
+        "url": "https://github.com/TheOtherBrian1/Postgres_Lock_Explainer"
+      },
+      {
+        "repo": "lucasfrederico/pgcraft",
+        "stars": 8,
+        "url": "https://github.com/lucasfrederico/pgcraft"
+      },
+      {
+        "repo": "rbkayz/supexplain",
+        "stars": 6,
+        "url": "https://github.com/rbkayz/supexplain"
+      },
+      {
+        "repo": "bettyguo/mcp-postgres",
+        "stars": 5,
+        "url": "https://github.com/bettyguo/mcp-postgres"
+      }
+    ]
+  },
+  "comparables": [
+    {
+      "repository": "dalibo/pev2",
+      "url": "https://github.com/dalibo/pev2",
+      "observed_utc": "2026-10-04T12:35:35.826022+00:00",
+      "stargazers_count": 3602,
+      "pushed_at": "2026-10-02T05:52:02Z",
+      "archived": false,
+      "description": "Postgres Explain Visualizer 2",
+      "default_branch": "master",
+      "license": {
+        "key": "postgresql",
+        "name": "PostgreSQL License",
+        "spdx_id": "PostgreSQL",
+        "url": "https://api.github.com/licenses/postgresql",
+        "node_id": "MDc6TGljZW5zZTMx"
+      }
+    },
+    {
+      "repository": "AlexTatiyants/pev",
+      "url": "https://github.com/AlexTatiyants/pev",
+      "observed_utc": "2026-10-04T12:35:35.826923+00:00",
+      "stargazers_count": 2803,
+      "pushed_at": "2020-07-15T20:27:50Z",
+      "archived": false,
+      "description": "Postgres Explain Visualizer",
+      "default_branch": "master",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "mgartner/pg_flame",
+      "url": "https://github.com/mgartner/pg_flame",
+      "observed_utc": "2026-10-04T12:35:43.242115+00:00",
+      "stargazers_count": 1621,
+      "pushed_at": "2020-01-13T23:28:06Z",
+      "archived": false,
+      "description": "A flamegraph generator for Postgres EXPLAIN ANALYZE output.",
+      "default_branch": "master",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+    }
+  ]
+}
